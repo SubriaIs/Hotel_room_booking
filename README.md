@@ -1,6 +1,8 @@
-# Hotel room booking program
+# Hotel Room Booking Program
 
-## The pdf file contains all information about project
+## Project Overview
 
-[View the PDF](Hotel room booking program.pdf](https://github.com/SubriaIs/Hotel_room_booking/blob/main/Hotel%20room%20booking%20program.pdf)
+The PDF file below contains all the information about the project:
+
+[📄 View the PDF](https://github.com/SubriaIs/Hotel_room_booking/blob/main/Hotel%20room%20booking%20program.pdf)
 
