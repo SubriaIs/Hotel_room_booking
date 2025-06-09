@@ -92,6 +92,8 @@ void userDisplay(Room* roomList, stack<Reservation>& reservationList) {
 
 
 	while (true) {
+		cout << "1-150 for single rooms." << endl;
+		cout << "151-300 for double rooms. " << endl;
 		cout << "Enter a room number you want " << endl;
 
 		cin >> roomNumber;
